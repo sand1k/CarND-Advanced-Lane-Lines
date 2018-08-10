@@ -1,4 +1,12 @@
-## Advanced Lane Finding
+# Advanced Lane Finding
+
+First of all, I'd like to share results of my work as I've spend pretty much time on tuning my algorithm.
+Please, check:
+
+[![Project video](https://img.youtube.com/vi/https://youtu.be/K9KJmFyCVyk/0.jpg)](https://www.youtube.com/watch?v=K9KJmFyCVyk)
+
+
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
